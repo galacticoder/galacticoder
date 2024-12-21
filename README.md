@@ -21,14 +21,14 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=galacticoder&show_icons=true&theme=radical" alt="GitHub Stats" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galacticoder&layout=compact&theme=radical" alt="Top Languages" height="200">
-</div>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=galacticoder&theme=radical" alt="GitHub Streak" height="200">
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=galacticoder&show_icons=true&theme=radical&line_height=39">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=galacticoder&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=galacticoder&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
 
 <p align="center">
   <strong><span style="font-size: 20px;">If you want to work on something together or want to contact me, email me <a href="mailto:galacticoder@gmail.com">here</a>.</span></strong>
