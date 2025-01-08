@@ -26,10 +26,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=galacticoder&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=galacticoder&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-
 <p align="center">
   <strong><span style="font-size: 20px;">If you want to work on something together or want to contact me, email me <a href="mailto:galacticoder@gmail.com">here</a>.</span></strong>
 </p>
