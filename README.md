@@ -13,11 +13,6 @@
 
 **I love building complex security based projects and working with cryptography and communications.**
 
----
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=galacticoder&show_icons=true&theme=radical&line_height=39">
-</p>
-
 <p align="center">
   <strong><span style="font-size: 20px;">If you want to work on something together or want to contact me, email me <a href="mailto:galacticoder@gmail.com">here</a>.</span></strong>
 </p>
